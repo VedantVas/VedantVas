@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VedantVas
-- 👀 I’m interested in ...in learning AIML .
+- 👀 I’m interested in ...learning AIML .
 - 🌱 I’m currently learning ...python for machine learning.
 - 💞️ I’m looking to collaborate on ...working AI related problems.
 - 📫 How to reach me ..."www.linkedin.com/in/vedant-vashishtha-701608255"
