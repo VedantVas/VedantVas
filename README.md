@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...working AI related problems.
 - 📫 How to reach me ..."www.linkedin.com/in/vedant-vashishtha-701608255"
 - 😄 Pronouns: ...vini.
-- ⚡ Fun fact: ...i have a lot to learn,which makes me confused from where to start ,or you can say I am little procrastinator.
+- ⚡ Fun fact: ...I have a lot to learn,which makes me confused from where to start .
 
 <!---
 VedantVas/VedantVas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
