@@ -6,6 +6,33 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: "I'm on a quest to teach machines—while they teach me patience."
 
+## Languages and Tools:
+<p align="center"> 
+    <!-- Python Icon -->
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
+    </a>
+    
+    <!-- C++ Icon -->
+    <a href="https://www.cplusplus.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> 
+    </a> 
+    
+    <!-- C Icon -->
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
+    </a>
+    
+    <!-- Machine Learning Icon -->
+    <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="machine-learning" width="60" height="60"/> 
+    </a>
+    
+    <!-- Artificial Intelligence Icon -->
+    <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> 
+        <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="artificial-intelligence" width="60" height="60"/> 
+    </a>
+</p>
 
 <!---
 VedantVas/VedantVas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
