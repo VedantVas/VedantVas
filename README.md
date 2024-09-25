@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VedantVas
+- 👋 Hi, I’m @Vedant Vashishtha.
 - 👀 I’m interested in learning AI/ML and Data Science.
 - 🌱 I’m currently learning Python for machine learning.
 - 💞️ I’m looking to collaborate on AI-related problems.
