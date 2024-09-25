@@ -17,9 +17,6 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a>
-    <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> 
-        <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="machine-learning" width="40" height="40"/> 
-    </a>
     <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"> 
         <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="artificial-intelligence" width="40" height="40"/> 
     </a>
