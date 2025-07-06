@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant__156) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vedant-vashishtha-4933b3301) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantvashish@gmail.com) 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=VedantVas.VedantVas)
+[![](https://visitcount.itsvg.in/api?id=VedantVas&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
